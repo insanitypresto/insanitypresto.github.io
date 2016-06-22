@@ -10,6 +10,6 @@ This is just a beginning.
 
 
 You - my poison, my air. You - my pain, my happiness. 
-### Contact me
+insanitypresto - skype
 
 [horiono@mail.ru](mailto:email@domain.com)
