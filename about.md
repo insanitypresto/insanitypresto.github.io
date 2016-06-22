@@ -6,7 +6,7 @@ permalink: /about/
 
 
 This is just a beginning.
-### More Information
+### - I know, you don`t love me.
 
 
 You - my poison, my air. You - my pain, my happiness. 
