@@ -27,5 +27,5 @@ Just do it!
  designer is a person who plans the look or workings of something prior to it being made, by preparing drawings or plans.
  ![_config.yml] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUNtjeHVmtNIYVDYeyv1-eQo33RkbLP4HDWBfuwpknE68Y1NU_vg)
  
- +game producer is the person in charge of overseeing and funding development of a video game. 
- +![_config.yml] (http://cdn3.dualshockers.com/wp-content/uploads/2013/02/Greg-Rizzer-Army-of-Two-Devils-Cartel-620x350.jpg)
+ game producer is the person in charge of overseeing and funding development of a video game. 
+ ![_config.yml] (http://cdn3.dualshockers.com/wp-content/uploads/2013/02/Greg-Rizzer-Army-of-Two-Devils-Cartel-620x350.jpg)
